@@ -23,7 +23,7 @@
 - 👯 I’m looking to collaborate on Some Projects.
 - 🤔 I’m looking for help with learning new stuff.
 - 💬 Ask me about  tech related stuff.
-- 📫 How to reach me: [LinkedIn ](https:https://www.linkedin.com/in/sunanda-das-a54499244/)
+- 📫 How to reach me: [LinkedIn ](https://www.linkedin.com/in/sunanda-das-a54499244/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: As i love to buid Something so spend my most of the  ⌚ in front of my laptop.
 
