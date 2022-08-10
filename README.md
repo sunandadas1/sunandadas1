@@ -5,8 +5,6 @@
 <a href="https://www.linkedin.com/in/sunanda-das-a54499244/">
   <img align="left" alt="Sunanda's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
-
 <a href="https://github.com/sunandadas1">
   <img align="left" alt="Sunanda's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
